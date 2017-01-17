@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="F:/jar/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/jar/mahout-distribution-0.9/mahout-core-0.9.jar"/>
+	<classpathentry kind="lib" path="F:/jar/mahout-distribution-0.9/mahout-core-0.9-job.jar"/>
+	<classpathentry kind="lib" path="F:/jar/mahout-distribution-0.9/mahout-integration-0.9.jar"/>
+	<classpathentry kind="lib" path="F:/jar/mahout-distribution-0.9/mahout-math-0.9.jar"/>
+	<classpathentry kind="lib" path="F:/jar/mongo-java/mongo-java-driver-3.4.0-rc1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="F:/jar/slf4j-nop-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
