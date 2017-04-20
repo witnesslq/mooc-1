@@ -15,10 +15,10 @@ import com.mongodb.client.MongoCollection;
 /**
  * @author: wuke 
  * @date  : 2016年12月8日 上午9:04:24
- * Title  : ProcesssLogsJsonFileStoreMongodb
- * Description : 
+ * Title  : StoreLogs
+ * Description : Processs logs, which is store in JSON files, then store into MongoDB
  */
-public class ProcesssLogsJsonFileStoreMongodb {
+public class StoreLogs {
 	static String PATH = "E:\\data\\log\\"; // the catalog where logs are stored
 	
 	public static void main(String[] args) {
