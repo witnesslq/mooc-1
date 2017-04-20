@@ -1,4 +1,4 @@
-package _hotCourses;
+package hotCourses;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

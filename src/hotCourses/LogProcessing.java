@@ -1,4 +1,4 @@
-﻿package _hotCourses;
+﻿package hotCourses;
 
 import java.io.*;
 import java.sql.Connection;
